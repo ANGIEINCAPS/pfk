@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SetExample.java&apos; to &apos;exempel-modul-11-12/src/set&apos;&#x0A;- Original project: &apos;exempel-modul-3-4&apos;&#x0A;- Destination element: &apos;exempel-modul-11-12/src/set&apos;&#x0A;- Original element: &apos;jcf.SetExample.java&apos;" description="Copy compilation unit" destination="=exempel-modul-11-12/src&lt;set" element1="/src&lt;jcf{SetExample.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1647858248692" units="1" version="1.0"/>
+</session>

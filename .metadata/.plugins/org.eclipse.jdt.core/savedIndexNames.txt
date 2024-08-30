@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+/Users/anna/Desktop/edaa01-workspace/.metadata/.plugins/org.eclipse.jdt.core
+254293094.index
+2110529619.index
+4008566294.index
+3157158754.index
+3838145001.index
+172103414.index
+575340225.index
+3767367539.index
+1865797976.index
+4221667313.index
+1431162455.index
+3141775227.index
+204127914.index
+81126111.index
+560541741.index
+3408485364.index
+3996291972.index
+623327960.index

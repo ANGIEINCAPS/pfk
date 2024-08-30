@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;compareTime&apos; to &apos;exempel-modul-7/src&apos;&#x0A;- Original project: &apos;exempel-modul-8&apos;&#x0A;- Destination element: &apos;exempel-modul-7/src&apos;&#x0A;- Original element: &apos;exempel-modul-8/src/compareTime&apos;&#x0A;- Update references to refactored element" description="Move package" destination="=exempel-modul-7/src" element1="/src&lt;compareTime" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1641399596787" version="1.0"/>
+</session>
